@@ -1,7 +1,7 @@
 #!/bin/bash
 set -u
 
-CONFIG_URL="https://YOUR-CONFIG-URL.example.com/config.json"
+CONFIG_URL="https://raw.githubusercontent.com/jhmeshu/macbook_wallpaper/refs/heads/main/config.json"
 LOCAL_DIR="/Users/Shared/company_wallpaper"
 CONFIG_FILE="$LOCAL_DIR/config_remote.json"
 IMAGE_FILE="$LOCAL_DIR/wallpaper.jpg"
